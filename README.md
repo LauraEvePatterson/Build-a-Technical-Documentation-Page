@@ -1,4 +1,4 @@
-(https://lauraevepatterson.github.io/Build-a-Technical-Documentation-Page/)
+[Link to deployed site](https://lauraevepatterson.github.io/Build-a-Technical-Documentation-Page/)
 
 # Technical Documentation Page
 
